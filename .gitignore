@@ -5,12 +5,14 @@
 #logs
 /logs
 
+
 #public resources
 /public
 /tmp
 ~/
 # testing
 /coverage
+
 
 
 # misc
